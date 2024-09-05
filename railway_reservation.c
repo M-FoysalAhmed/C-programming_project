@@ -191,7 +191,7 @@ void reservation(void)
 
 float charge(int train_num,int num_of_seats)
 {
-		if (train_num==100)
+		if (train_num ==100)
 	{
 		return(500.0*num_of_seats);
 	}
