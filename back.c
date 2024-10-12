@@ -1,5 +1,6 @@
+
 #include<stdio.h>
 int main()
 {
-    print("Back");
+    printf("Back");
 }
