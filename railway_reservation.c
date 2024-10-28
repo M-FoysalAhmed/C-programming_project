@@ -250,6 +250,7 @@ void specifictrain(int train_num)
 	}
 }
 
+
 void cancel(void)
 {
 	system("cls");
